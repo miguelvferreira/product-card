@@ -20,12 +20,13 @@ html {
   font-size: 62.5%;
 }
 
-body {
+main {
   min-height: 100vh;
   background-color: var(--back);
   display: flex;
   align-items: center;
 }
+
 .container {
   width: 650px;
   border-radius: 10px;
